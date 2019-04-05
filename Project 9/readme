@@ -1,0 +1,6 @@
+A program that takes in two words, and then it recursively determines 
+if the letters of the first word are contained, in any order, in the second word.
+
+Contained Words, CSCE 146.
+
+Copyright 2018, Diem Dao
