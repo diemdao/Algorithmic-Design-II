@@ -1,0 +1,7 @@
+SheepA	1.2
+SheepB	2.2
+SheepC	0.2
+SheepD	1.9
+SheepE	3.2
+SheepF	1.0
+SheepG	1.4
